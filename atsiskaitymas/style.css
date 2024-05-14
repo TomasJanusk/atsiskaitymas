@@ -1,0 +1,21 @@
+.body{
+    height: 100vh;
+    width: 100vw;
+}
+#todo-form{
+    padding: 3%;
+}
+
+h1{
+    padding: 3%;
+    
+}
+#todo-input{
+    padding: 4px;
+}
+#todo-table{
+    background-color: rgb(155, 223, 226);
+    border: solid #87ceeb;
+   
+}
+
